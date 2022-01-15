@@ -7,7 +7,7 @@ using Xamarin.Forms.Skeleton.Animations;
 
 namespace SkeletonExample.ViewModels
 {
-    public class Page7ViewModel : Page6ViewModel
+    public class Page7ViewModel : BaseViewModel
     {
 
         private ObservableCollection<Item> items;
